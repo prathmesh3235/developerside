@@ -1,0 +1,28 @@
+DEVELOPER SIDE
+
+SUJITH NAIR:
+
+I'm currently a 3rd year CSE student leading this team of esteemed developers into a single platform and collaborated the idea of digitalizing the announcements and notifying the students with in-college details through an application. As an test we decided to launch an CSE application first and then develop to a campus-wise. Along-side development, we hear the queries and update the buggish logs you face while using the application.
+
+SHWETHA BABU:
+
+I'm currently a 3rd year CSE student who led the team in terms of making the application web-based and develop the crux of the application as a basic web applet itself. I further coordinated a  team under me to help me speed up the process making the efficiency meet the reliability.
+
+AJITH KUMAR:
+
+I'm currently a 3rd year CSE student who swore for the maintenance of the application and took the responsibility of looking into the queries and releasing as a user-friendly application to almost everyone. I have a bank of future promising updates of the application and desiring to make it much more wonderful than it is already.
+
+
+PRATHMESH:
+
+I'm currently a 3rd year CSE student; I myself am a part time back-hand Web designer and I maintain the ambiguity of the application by embedding the CSS and BOOTSTRAP techniques into this micro-targeted application and help the data in the application flow flawlessly. I also help the team by adding an additional hand in terms of the web designing and help them speed-up the good work.
+
+AJITH:
+
+I'm currently a 2nd year CSE student, I too am in maintenance team and look for the updates of the application. Also I maintain the server side of the application and look forward that the application does not face any issues while user interaction with it.
+
+
+MR.SHADAKSHARAPPA:
+
+The Vice-Principal and the HOD of CSE Dept. has always been a helping hand and a support from the very basic idea of the app development till the latest release of it. And always help in the development of the application in-terms of benefitting everyone.
+

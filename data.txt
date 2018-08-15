@@ -1,0 +1,25 @@
+DEVELOPER SIDE
+
+SUJITH NAIR:
+
+Currently a 3rd year CSE student leading this team of esteemed developers into a single platform and collaberated the idea of digitalizing the announcements and notifying the students with in-college details through an application. As an test the team decided to launch an CSE application first and then develop to a campus-wise. 
+
+SHWETHA BABU:
+
+Currently a 3rd year CSE student who led the team in terms of making the application web-based and develop the crux of the application as a basic web applet itself.Further coordinated a  team under her to speed up the process making the efficiency meet the reliability.
+
+AJITH KUMAR:
+
+Currently a 3rd year CSE student who swore for the maintanance of the application and took the responsiblity of looking into the queries and releasing as a user-friendly application to almost everyone. He has a bank of future promising updates regarding to the application and desiring to make it much more wonderful than it already is.
+
+AJITH:
+
+Currently a 2nd year CSE student, who's in maintanance team and look for the updates of the applciation. Also he maintains the server side of the application and look forward that the application does not face any issues both front and back-hand.
+
+PRATHMESH:
+
+Currently a 3rd year CSE student; he is a back-hand Web designer and maintain the ambuiguity of the application by embedding the CSS and BOOTSTRAP techniques into this micro-targeted application and help the data in the applcaition flow flawlessly. Also he help's the team by adding an additional hand in terms of the web designing and help them speed-up the good work.
+
+MR.SHADAKSHARAPPA:
+
+The Vice-Principal and the HOD of CSE Dept. has always been a helping hand and a support since the very basic idea of the app development. And always help in the development of the application in-terms of benefitting everyone.
