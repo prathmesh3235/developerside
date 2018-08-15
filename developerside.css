@@ -1,0 +1,57 @@
+html{
+	height: 100%;
+	
+}
+body{
+	background:url(bg11.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	margin: auto;
+	padding: 0;
+	perspective: 1px;
+	transform-style: preserve-3d;
+	height: 100%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	background-size:100%;
+	background-position: center;
+	font-size: auto;
+	
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+a{
+	font-size: 55px;
+	font-family: 'Monoton', cursive;
+	align-content: center;
+	text-align: center;
+	width: 200px;
+	color: aliceblue;
+	
+}
+
+c{
+	height: 100px;
+	width: 150px;
+	color: black;
+	font-family: 'Niconne', cursive;
+	font-size: 40px;
+}
+	
+
+b{
+	margin: 0;
+	padding: 0;
+	width:660px;
+	height: 650px;
+	font-family: 'Bungee Inline', cursive;
+	font-size: 20px;
+	color:black;
+	top: 85%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+}
